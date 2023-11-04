@@ -1,7 +1,7 @@
 repo_name: https-github-com-stackshareio/google-api-php-client
-report_id: '0483219ec5ebd6a923ad515f4601d520'
+report_id: 635cf7761b89ee862b38b022fbee11e4
 repo_type: Public
-timestamp: '2023-11-01T20:43:00+00:00'
+timestamp: '2023-11-04T03:18:43+00:00'
 requested_by: bshaffer
 provider: github
 branch: master
@@ -18,6 +18,18 @@ tools:
   imageURL: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
   detection_source:
   - Repo Metadata
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  imageURL: https://img.stackshare.io/service/2350/638632.png
+  detection_source:
+  - composer.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -40,18 +52,6 @@ tools:
   - ".github/workflows/asset-release.yml"
   - ".github/workflows/docs.yml"
   - ".github/workflows/tests.yml"
-- name: Istio
-  description: Open platform to connect, manage, and secure microservices, by Google,
-    IBM, and Lyft
-  website_url: https://istio.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Microservices Tools
-  imageURL: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source:
-  - ".github/sync-repo-settings.yaml"
 - name: PHPUnit
   description: Testing framework for PHP
   website_url: https://phpunit.de/
