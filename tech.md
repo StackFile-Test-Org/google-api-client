@@ -1,9 +1,32 @@
+<!--
+--- Readme.md Snippet without images Start ---
+## Tech Stack
+https-github-com-stackshareio/google-api-php-client is built on the following main stack:
+- [PHP](http://www.php.net/) – Languages
+- [PHPUnit](https://phpunit.de/) – Testing Frameworks
+- [Guzzle](http://guzzlephp.org/) – Microframeworks (Backend)
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet without images End ---
+
+--- Readme.md Snippet with images Start ---
+## Tech Stack
+https-github-com-stackshareio/google-api-php-client is built on the following main stack:
+- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg' alt='PHPUnit'/> [PHPUnit](https://phpunit.de/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2350/638632.png' alt='Guzzle'/> [Guzzle](http://guzzlephp.org/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet with images End ---
+-->
 <div align="center">
 
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [https-github-com-stackshareio/google-api-php-client](https://github.com/https-github-com-stackshareio/google-api-php-client)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|118<br/>Contributors|11/01/23 <br/>Report generated|11/17/20<br/>Last commit date|
+|6<br/>Tools used|118<br/>Contributors|11/04/23 <br/>Report generated|11/17/20<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -20,7 +43,20 @@
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2350/638632.png' alt='Guzzle'>
+  <br>
+  <sub><a href="http://guzzlephp.org/">Guzzle</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -34,14 +70,6 @@
   <img width='36' height='36' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'>
   <br>
   <sub><a href="https://github.com/features/actions">GitHub Actions</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
-  <br>
-  <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
   <sub></sub>
 </td>
