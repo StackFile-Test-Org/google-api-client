@@ -1,7 +1,7 @@
 repo_name: StackFile-Test-Org/google-api-client
-report_id: c54c4420017e0584852e373ecd7ba9e3
+report_id: 2d6d2efd2090b750ac7279fff835893e
 repo_type: Public
-timestamp: '2023-11-09T04:19:20+00:00'
+timestamp: '2023-11-21T22:26:40+00:00'
 requested_by: sumitseth
 provider: github
 branch: master
@@ -17,17 +17,6 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
   detection_source: Repo Metadata
-- name: Guzzle
-  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
-    to integrate with web services
-  website_url: http://guzzlephp.org/
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Microframeworks (Backend)
-  image_url: https://img.stackshare.io/service/2350/638632.png
-  detection_source: composer.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -46,6 +35,21 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/tests.yml"
+  last_updated_by: John Pedrie
+  last_updated_on: 2020-06-18 17:54:38.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source: ".github/sync-repo-settings.yaml"
+  last_updated_by: Justin Beckwith
+  last_updated_on: 2020-09-30 17:19:56.000000000 Z
 - name: PHPUnit
   description: Testing framework for PHP
   website_url: https://phpunit.de/
@@ -58,9 +62,13 @@ tools:
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
   detection_source_url: composer.json
   detection_source: composer.json
+  last_updated_by: Silvano Luciani
+  last_updated_on: 2013-10-18 16:53:14.000000000 Z
 - name: Monolog
   website_url: https://github.com/Seldaek/monolog
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9170/183678.jpeg
   detection_source: composer.json
+  last_updated_by: John Pedrie
+  last_updated_on: 2019-09-05 20:25:11.000000000 Z
